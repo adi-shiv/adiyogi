@@ -1,0 +1,54 @@
+.b-head{
+    color: #fbfbfb!important;
+    font-size: 65px;
+    font-weight: 700;
+}
+.sub-head{
+    color: #fbfbfb!important;
+    font-size: 30px;
+    font-weight: 500;
+}
+.about-adi{
+    padding: 100px 0px;
+    background-color: #f4f6fb;
+}
+
+.about-adi h2{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: fangsong;
+    text-align: center;
+    color: #1d2d60;
+
+}
+.about-adi .innt-cont{
+    background-color: #171a24;
+    padding: 50px;
+}
+.innt-cont h3{
+    font-family: fangsong;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+.innt-cont p{
+    color: #fff;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 18px;
+}
+.ntv{
+text-align: justify;
+padding: 0;
+background-color: #ffffff;
+}
+.ntv h5{
+    font-family: fangsong;
+    text-transform: uppercase;
+    color: #1d2d60;
+    line-height: 30px;
+    font-size: 40px ;
+}
+
